@@ -100,6 +100,7 @@ https://velora-estate-phi.vercel.app/
 
 - GitHub: https://github.com/Felix-Nkanu
 - Portfolio: https://my-portfolio-website-psi-one.vercel.app/
+- **LinkedIn:** [Felix Nkanu](https://www.linkedin.com/in/felix-nkanu/)
 - Email: felixnkanu636@gmail.com
 
 ---
