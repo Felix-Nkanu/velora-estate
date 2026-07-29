@@ -109,9 +109,10 @@ velora-estate/
 
 **Felix Nkanu**
 
-- GitHub: https://github.com/Felix-Nkanu
-- Portfolio: https://my-portfolio-website-psi-one.vercel.app/
-- Email: felixnkanu636@gmail.com
+- **Email:** felixnkanu636@gmail.com
+- **Portfolio:** [Visit My Portfolio](https://my-portfolio-website-psi-one.vercel.app/)
+- **LinkedIn:** [Felix Nkanu](https://www.linkedin.com/in/felix-nkanu/)
+- **GitHub:** [Felix-Nkanu](https://github.com/Felix-Nkanu)
 
 ---
 
