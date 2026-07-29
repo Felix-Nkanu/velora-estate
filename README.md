@@ -1,25 +1,25 @@
 # Velora Estate | Luxury Real Estate Website
 
-A modern, responsive luxury real estate website designed to showcase premium properties, experienced agents, and exceptional living experiences. Built with HTML, CSS, Bootstrap, and JavaScript, the project delivers an elegant user experience across desktop, tablet, and mobile devices.
+A modern, responsive luxury real estate website showcasing premium properties, trusted agents, and exceptional living experiences.
 
 ---
 
 ## 📖 Overview
 
-Velora Estate is a frontend real estate website that demonstrates modern web design principles, responsive layouts, and clean user interface development. It provides visitors with an engaging platform to explore luxury properties, learn about professional real estate services, and connect with experienced property consultants.
+Velora Estate is a premium frontend real estate website built to demonstrate modern UI/UX design, responsive layouts, and professional web development practices. The website allows visitors to browse luxury properties, learn about the company's services, meet experienced agents, and get in touch through a clean, intuitive interface.
 
 ---
 
 ## ✨ Features
 
-- Elegant and modern homepage
+- Modern and elegant homepage
 - Fully responsive design
-- Premium property listings
+- Luxury property listings
 - Property details page
 - Professional agents section
 - Real estate services
-- Contact form
-- Beautiful image gallery
+- Blog page
+- Contact page
 - Smooth navigation
 - Mobile-friendly layout
 
@@ -34,30 +34,35 @@ Velora Estate is a frontend real estate website that demonstrates modern web des
 
 ---
 
-## 📁 Project Structure
+## 🚀 Live Demo
 
-```
-velora-estate/
-│── css/
-│── images/
-│── index.html
-│── about.html
-│── properties.html
-│── detail.html
-│── services.html
-│── agents.html
-│── blog.html
-│── contact.html
-│── README.md
-```
+**Website:**  
+https://velora-estate-phi.vercel.app/
 
 ---
 
-## 🚀 Live Demo
+## 📂 Project Structure
 
-**Website**
-
-https://velora-estate-phi.vercel.app/
+```text
+velora-estate/
+│
+├── css/
+├── images/
+├── screenshots/
+│   ├── homepage.png
+│   ├── properties.png
+│   ├── property-details.png
+│   └── mobile-view.jpg
+├── index.html
+├── about.html
+├── properties.html
+├── detail.html
+├── services.html
+├── agents.html
+├── blog.html
+├── contact.html
+└── README.md
+```
 
 ---
 
@@ -65,32 +70,38 @@ https://velora-estate-phi.vercel.app/
 
 ### Homepage
 
-*(Add screenshot here)*
-
-### Property Listings
-
-*(Add screenshot here)*
-
-### Property Details
-
-*(Add screenshot here)*
-
-### Mobile View
-
-*(Add screenshot here)*
+![Homepage](screenshots/homepage.png)
 
 ---
 
-## 🎯 Future Improvements
+### Properties Page
 
-- Property search and filtering
-- User authentication
-- Favorites/Wishlist
+![Properties](screenshots/properties.png)
+
+---
+
+### Property Details
+
+![Property Details](screenshots/property-details.png)
+
+---
+
+### Mobile View
+
+![Mobile View](screenshots/mobile-view.jpg)
+
+---
+
+## 🚀 Future Improvements
+
+- Advanced property search
+- Property filtering
 - Mortgage calculator
-- Interactive Google Maps integration
+- Interactive Google Maps
+- User authentication
 - Property booking system
-- Backend database integration
 - Admin dashboard
+- Backend integration with database
 
 ---
 
@@ -98,13 +109,12 @@ https://velora-estate-phi.vercel.app/
 
 **Felix Nkanu**
 
-- **GitHub:** https://github.com/Felix-Nkanu
-- **Portfolio:** https://my-portfolio-website-psi-one.vercel.app/
-- **LinkedIn:** [Felix Nkanu](https://www.linkedin.com/in/felix-nkanu/)
-- **Email:** felixnkanu636@gmail.com
+- GitHub: https://github.com/Felix-Nkanu
+- Portfolio: https://my-portfolio-website-psi-one.vercel.app/
+- Email: felixnkanu636@gmail.com
 
 ---
 
 ## ⭐ Support
 
-If you found this project helpful, please consider giving it a ⭐ on GitHub.
+If you found this project helpful, consider giving it a ⭐ on GitHub.
